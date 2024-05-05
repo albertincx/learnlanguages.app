@@ -14,5 +14,5 @@ https://learnlanguages.app/
 ![Screen](screen.png)
 
 ## Source
-https://github.com/albertincx/PWA-Vite-React-Boilerplate
+https://github.com/albertincx/learnlanguages-react
 
